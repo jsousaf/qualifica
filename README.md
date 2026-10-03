@@ -6,7 +6,7 @@ Ela consulta os dados públicos de uma empresa pelo CNPJ (BrasilAPI) e usa um
 LLM (Claude / GPT) para classificar cada empresa: segmento, porte, um resumo
 e uma nota de "fit" como potencial cliente.
 
-Projeto construído em três encontros no Instituto NTA.
+Projeto construído em três encontros no pela pós de engenharia de dados.
 
 ## O que ele faz
 
