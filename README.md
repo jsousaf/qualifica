@@ -1,4 +1,3 @@
-# qualifica
 # Qualificador de Leads B2B
 
 Ferramenta de qualificação de leads B2B construída em Python puro, do zero.
