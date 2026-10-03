@@ -1,0 +1,6 @@
+# Para atualizar: instale a nova versão e rode "pip freeze | grep -i <pacote>".
+anthropic==0.120.2
+openai==2.51.0
+python-dotenv==1.1.0
+requests==2.31.0
+streamlit>=1.40,<2

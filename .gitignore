@@ -1,0 +1,9 @@
+# o ambiente virtual nao vai para o repositorio
+.venv/
+
+# NUNCA sobe: aqui moram suas chaves
+.env
+
+# arquivos temporarios que o Python gera
+__pycache__/
+*.pyc
